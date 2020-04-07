@@ -1,6 +1,8 @@
-There are 100 prisoners all sentenced to death. One night before the execution, the warden gives them a chance to live if they all work on a strategy together.
+There are 100 prisoners all sentenced to death. One night before the execution, 
+the warden gives them a chance to live if they all work on a strategy together.
 The execution scenario is as follows –
-On the day of execution, all the prisoners will be made to stand in a straight line such that one prisoner stands just behind another and so on. 
+On the day of execution, all the prisoners will be made to stand in a straight line such that one prisoner stands just behind
+another and so on. 
 All prisoners will be wearing a hat either of Blue colour or Red. 
 The prisoners don’t know what colour of hat they are wearing. 
 The prisoner who is standing at the last can see all the prisoners in front of him (and what colour of hat they are wearing).
