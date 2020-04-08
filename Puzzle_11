@@ -1,0 +1,4 @@
+You are in a dark room where a table is kept. There are 50 coins placed on the table,
+out of which 10 coins are showing tails and 40 coins are showing heads. 
+The task is to divide this set of 50 coins into 2 groups (not necessarily same size) 
+such that both groups have same number of coins showing the tails.
