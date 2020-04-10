@@ -1,5 +1,0 @@
-There is a bus with 100 labeled seats (labeled from 1 to 100). There are 100 persons standing in a queue. 
-Persons are also labelled from 1 to 100.
-People board on the bus in sequence from 1 to n. The rule is, if person ‘i’ boards the bus, he checks if seat ‘i’ is empty.
-If it is empty, he sits there, else he randomly picks an empty seat and sit there. 
-Given that 1st person picks seat randomly, find the probability that 100th person sits on his place i.e. 100th seat.
