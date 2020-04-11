@@ -1,0 +1,6 @@
+N persons are standing in a circle. They are labelled from 1 to N in clockwise order. 
+Every one of them is holding a gun and can shoot a person on his left. 
+Starting from person 1, they starts shooting in order e.g for N=100, person 1 shoots person 2, then person 3 shoots person 4, 
+then person 5 shoots person 6……..then person 99 shoots person 100, then person 1 shoots person 3, then person 5 shoots person 7
+……and it continues till all are dead except one.
+What’s the index of that last person ?
