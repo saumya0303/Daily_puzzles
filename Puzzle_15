@@ -1,0 +1,10 @@
+Four glasses are placed on the corners of a square Lazy Susan (a square plate which can rotate about it’s center). 
+Some of the glasses are upright (up) and some upside-down (down).
+A blindfolded person is seated next to the Lazy Susan and is required to re-arrange the glasses so that they are all up 
+or all down, either arrangement being acceptable (which will be signalled by say ringing of a bell).
+The glasses may be rearranged in turns with subject to the following rules: 
+Any two glasses may be inspected in one turn and after feeling their orientation the person may reverse,
+the orientation of either, neither or both glasses. After each turn the Lazy Susan is rotated through a random angle.
+The puzzle is to devise an algorithm which allows the blindfolded person to ensure that all glasses 
+have the same orientation (either up or down) in a finite number of turns.
+(The algorithm must be deterministic, i.e. non-probabilistic )
