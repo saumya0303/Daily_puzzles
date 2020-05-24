@@ -1,0 +1,7 @@
+A, B, C, D, E, F, G, H, and I, are the nine integers from one to nine (not necessarily in order).
+They satisfy the following constraint s :
+A+B+C+D 20,
+B+C+D+E+F 20,
+D+E+F+G+H=20,
+F+G+H+I=20
+What values are taken by each of A to I?
