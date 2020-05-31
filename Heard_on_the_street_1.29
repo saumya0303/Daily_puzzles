@@ -1,0 +1,5 @@
+Question.In front of you are three poles. One pole is stacked with 64 rings ranging in weight from one ounce (at the top) to 64 ounces (at the bottom).
+Your task is to move all the rings to one of the other two poles so that they end up in the same order.
+The rules are that you can move only one ring at a time, you can move a ring only from one pole to another,
+and you cannot even temporarily place a ring on top of a lighter ring.
+What is the minimum number of moves you need to make to achieve the task?
